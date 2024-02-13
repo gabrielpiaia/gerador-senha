@@ -1,4 +1,5 @@
-Paginha web para gerar senhas.
+Pagina web para gerar senhas.
+
 Tecnologias utilizadas:
 HTML
 CSS
